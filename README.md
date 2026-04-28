@@ -121,6 +121,8 @@ SELL  → Precision: 0.49 | Recall: 0.18 | F1: 0.26
 HOLD  → Precision: 0.44 | Recall: 0.72 | F1: 0.54  
 BUY   → Precision: 0.45 | Recall: 0.46 | F1: 0.46  
 
+<img width="570" height="462" alt="image" src="https://github.com/user-attachments/assets/96165e9b-2081-4627-9f5d-bc00448a7ab2" />
+
 --------------------------------------------------
 
 ### Observations
